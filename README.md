@@ -1,1 +1,2 @@
 # Delta-Task2-VedanshMangal
+Hello, thanks for reading this and giving me this task, this was very helpful for me for my web dev learning. I started from the basics of web dev in the last task, and similarly i started from the basics of canvas api this time. I was not able to figure out how to fit in the animations of the characters, but i did try my best to make a well-functioning game. Right now it is very simple, but if given more time i beileve i could do much better, especially since i started with pretty much no knowledge of web dev. Thank you again for the task!
